@@ -1,0 +1,6 @@
+name: JumpTo
+version: 1.0
+author: DerTaktischeHase
+main: de.teampresidency.jumpto.Main
+commands:
+  jumpto:
